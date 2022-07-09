@@ -1,0 +1,13 @@
+{
+  "compay": "auto_testing",
+  "User1": {
+    "username": "automation_auto_2021",
+    "password": "Testing@123",
+    "security_code": "111111"
+  },
+  "User2": {
+    "username": "automation_auto_2022",
+    "password": "Testing@123",
+    "security_code": "111111"
+  }
+}
